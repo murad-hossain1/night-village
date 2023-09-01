@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    height: 800px;
+    background-color: #130f40;
+    position: relative;
+    overflow: hidden;
+    
+}
+.cd{
+    width: 80px;
+    height: 80px;
+    background-color: aliceblue;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    border-radius: 50%;
+}
+.cd2{
+    width: 80px;
+    height: 80px;
+    background-color: #130f40;
+    position: absolute;
+    left: 122px;
+    top: 130px;
+    border-radius: 50%;
+}
+.hm1{
+    height: 22%;
+    width: 25%;
+    background-color: rgb(148, 101, 5);
+    position: absolute;
+    left: 488px;
+    top: 470px;
+}
+.hm2{
+    height: 5%;
+    width: 27%;
+    background-color: rgb(184, 149, 77);
+    position: absolute;
+    left: 471px;
+    top: 645px;
+}
+.hm3{
+    height: 16%;
+    width: 5%;
+    background-color: rgb(49, 38, 16);
+    position: absolute;
+    left: 670px;
+    top: 517px;
+}
+.hm4{
+    height: 7%;
+    width: 6%;
+    background-color: rgb(49, 38, 16);
+    position: absolute;
+    left: 542px;
+    top: 559px;
+}
+.hm5{
+    height: 17%;
+    width: 30%;
+    background-color: rgb(184, 149, 77);
+    position: absolute;
+    left: 448px;
+    top: 334px;
+    border: 1px solid gray;
+    box-shadow: 1px 6px 15px #343432;
+}
+.tr{
+    height: 30%;
+    width: 2%;
+    background-color: rgb(70, 48, 3);
+    position: absolute;
+    left: 1230px;
+    top: 481px;
+}
+.tr1{
+    height: 30%;
+    width: 18%;
+    background-color: #022d10;
+    position: absolute;
+    border-radius: 50%;
+    left: 1048px;
+    top: 265px;
+    box-shadow: 5px 6px 15px #031203;
+
+}
+.tr2{
+    height: 30%;
+    width: 18%;
+    background-color:#022d10;
+    position: absolute;
+    border-radius: 50%;
+    left: 1093px;
+    top: 153px;
+    box-shadow: 5px 6px 15px #031203;
+
+}
+.tr3{
+    height: 30%;
+    width: 18%;
+    background-color:#022d10;
+    position: absolute;
+    border-radius: 50%;
+    left: 1179px;
+    top: 243px;
+    box-shadow: 5px 6px 15px #031203;
+
+}
+
+.title {
+    color: white;
+    position: absolute;
+    top: 48%;
+    left: 34%;
+}
+
